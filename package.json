@@ -64,7 +64,7 @@
   ],
   "license": "Apache-2.0",
   "main": "./lib-jitsi-meet.min.js",
-  "name": "@lyno/lib-jitsi-meet",
+  "name": "@foysavas/lib-jitsi-meet",
   "repository": {
     "type": "git",
     "url": "git://github.com/jitsi/lib-jitsi-meet.git"
