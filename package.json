@@ -70,7 +70,7 @@
     "url": "git://github.com/jitsi/lib-jitsi-meet.git"
   },
   "scripts": {
-    "build": "webpack -p",
+    "build": "",
     "lint": "eslint . && flow",
     "prepack": "npm install && npm run build",
     "release": "npm publish --access public .",
